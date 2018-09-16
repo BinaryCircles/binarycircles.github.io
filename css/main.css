@@ -1505,8 +1505,8 @@ header .logo a {
 
 .intro-info {
 	margin-top: 4.2rem;
-	margin-right: -30px;
-	margin-left: -30px;
+	margin-right: 20%;
+	margin-left: 20%;
 }
 
 .intro-info .lead {
@@ -1578,9 +1578,7 @@ header .logo a {
 		height: 7.8rem;
 		width: 7.8rem;
 	}
-	.intro-info .lead {
-		padding-left: 11rem;
-	}
+	
 	.about-content h3 {
 		text-align: center;
 	}
