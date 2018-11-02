@@ -1026,7 +1026,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #7d7d7d;
 }
 .section-intro {
-	max-width: 700px;
+	max-width: auto;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -1505,8 +1505,8 @@ header .logo a {
 
 .intro-info {
 	margin-top: 4.2rem;
-	margin-right: 20%;
-	margin-left: 20%;
+	margin-right: 10%;
+	margin-left: 10%;
 }
 
 .intro-info .lead {
